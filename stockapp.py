@@ -2,6 +2,7 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 
+st.header('Streamlit')
 st.write("""
 # Simple Stock Price App
 Shown are the stock **closing price** and ***volume*** of Google!
