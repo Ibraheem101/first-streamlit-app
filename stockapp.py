@@ -1,7 +1,7 @@
 import streamlit as st
 import yfinance as yf
 import pandas as pd
-
+st.image(google.jpg)
 st.header('Streamlit')
 st.write("""
 # Simple Stock Price App
